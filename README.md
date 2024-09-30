@@ -57,7 +57,7 @@ Este projeto conta com uma implementação detalhada de um **Algoritmo Genético
 
 - **Problema da Mochila**: Este problema clássico de otimização combinatória é amplamente estudado. Para mais informações, confira a [descrição detalhada do Problema da Mochila](https://pt.wikipedia.org/wiki/Problema_da_mochila).
 
-Se deseja explorar mais sobre a teoria por trás do projeto e os experimentos realizados, você pode acessar o [artigo completo](link-para-o-artigo), que oferece uma explicação detalhada sobre:
+Se deseja explorar mais sobre a teoria por trás do projeto e os experimentos realizados, você pode acessar o [artigo completo](https://docs.google.com/document/d/1J4MfPsPvhfiEZBM4Eaz5432-VcYtMas1N5mR8YDo1tY/edit?usp=sharing), que oferece uma explicação detalhada sobre:
 - A lógica utilizada no algoritmo genético.
 - Comparações de performance entre diferentes abordagens.
 - Experimentos e análises de resultados.
